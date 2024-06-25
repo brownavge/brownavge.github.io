@@ -1,11 +1,12 @@
-## [Brown x RISD Anime Video Game Ensemble](http://brownavge.github.io)
+## [Brown x RISD Anime Video Game Ensemble](https://brownavge.github.io)
 
 ## 🎹 Description
 
-To access AVGE's homepage, navigate to the following URL (upon deployment):
+To access AVGE's homepage, navigate to the following URL:
 ```
-http://brownavge.github.io
+https://brownavge.github.io
 ```
 
+## ✍ Changelog
 
 ## 💻 Contributors
