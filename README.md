@@ -1,4 +1,48 @@
-# Getting Started with Create React App
+## [Brown x RISD Anime Video Game Ensemble](https://brownavge.github.io)
+
+## 🎹 Description
+
+To access AVGE's homepage, navigate to the following URL:
+```
+https://brownavge.github.io
+```
+
+## 🧭 Project Structure
+    |- node_modules
+        |- dependencies
+    |- public
+        |- index.html
+        |- logos
+    |- src
+        |- components
+            |- Navbar...
+        |- css
+            |- style...
+        |- pages
+            |- Home...
+        |- App.js
+        |- index.js
+    |- package.json
+    |- README.md
+    |- LICENSE
+
+## 🎯 TODO
+* Make navbar sticky
+* Figure out color palette
+* Decide on one-page vs. multi-page
+
+
+## ✍ Changelog
+* 6/27/24
+    * Added basic navbar + pages
+* 6/26/24
+    * Set up configs using Create React App bootstrap
+* 6/24/24
+    * Created brownavge github organization (owned by emilywang188)
+    * Deployed public organization site to https://brownavge.github.io
+
+## 💻 Contributors
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,28 +112,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-## [Brown x RISD Anime Video Game Ensemble](https://brownavge.github.io)
-
-## 🎹 Description
-
-To access AVGE's homepage, navigate to the following URL:
-```
-https://brownavge.github.io
-```
-
-## Project Structure
-    |- src
-        |- pages
-            |- Home.js
-        |- App.js
-        |- index.js    
-    |- index.html
-    |- README.md
-    |- LICENSE
-
-## ✍ Changelog
-
-## 💻 Contributors
-
