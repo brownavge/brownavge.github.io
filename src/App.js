@@ -20,10 +20,10 @@ function App() {
         <Router>
             <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/events" element={<Events />} />
-                <Route path="/people" element={<People />} />
-                <Route path="/join" element={<Join />} />
+                <Route path="about" element={<About />} />
+                <Route path="events" element={<Events />} />
+                <Route path="people" element={<People />} />
+                <Route path="join" element={<Join />} />
             </Routes>
         </Router>
         
