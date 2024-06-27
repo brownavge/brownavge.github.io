@@ -1,0 +1,36 @@
+.navbar {
+    overflow: hidden;
+    background-color: rgba(51, 51, 51, 0.6); 
+    display: flex;
+    justify-content: center; /* Centers the links horizontally */
+    align-items: center; /* Centers the links vertically */
+    padding: 5px 0; /* Padding for the navbar */
+      
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    margin-inline: 30px;
+    padding: 10px;
+    text-decoration: none;
+  }
+
+  .navbar a:hover {
+    color: black;
+  }
+  
+  /* Page content */
+  .content {
+    padding: 16px;
+  }
+  
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure it stays on top */
+  }
+  
