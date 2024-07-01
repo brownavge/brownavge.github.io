@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c482b35.css",
-    "main.js": "/static/js/main.52df6654.js",
+    "main.css": "/static/css/main.2b6371aa.css",
+    "main.js": "/static/js/main.7138d704.js",
     "static/js/453.8a2acff8.chunk.js": "/static/js/453.8a2acff8.chunk.js",
+    "static/media/guitars.jpg": "/static/media/guitars.fac682e005f3682b0d2e.jpg",
     "index.html": "/index.html",
-    "main.5c482b35.css.map": "/static/css/main.5c482b35.css.map",
-    "main.52df6654.js.map": "/static/js/main.52df6654.js.map",
+    "main.2b6371aa.css.map": "/static/css/main.2b6371aa.css.map",
+    "main.7138d704.js.map": "/static/js/main.7138d704.js.map",
     "453.8a2acff8.chunk.js.map": "/static/js/453.8a2acff8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c482b35.css",
-    "static/js/main.52df6654.js"
+    "static/css/main.2b6371aa.css",
+    "static/js/main.7138d704.js"
   ]
 }
