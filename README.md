@@ -18,6 +18,9 @@ https://brownavge.github.io
             |- Navbar...
         |- css
             |- style...
+        |- images
+            |- image1.jpg
+            |- image2.jpg...
         |- pages
             |- Home...
         |- App.js
@@ -27,14 +30,21 @@ https://brownavge.github.io
     |- LICENSE
 
 ## 🎯 TODO
-* Make navbar sticky
 * Figure out color palette
 * Decide on one-page vs. multi-page
+* Design footer
 
 
 ## ✍ Changelog
+* 7/2/2024
+    * Changed background image into carousel 
+* 7/1/2024
+    * Added background image
+    * Made navbar sticky
+    * Added basic footer 
 * 6/27/24
     * Added basic navbar + pages
+    * Fixed deployment
 * 6/26/24
     * Set up configs using Create React App bootstrap
 * 6/24/24
