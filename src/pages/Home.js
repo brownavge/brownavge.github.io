@@ -10,13 +10,13 @@ const Home = () => {
     <div style={{ position: 'relative', height: '100vh', overflow: 'hidden' }}>
       <Carousel autoPlay interval={4000} infiniteLoop showThumbs={false}>
         <div>
-          <img src={guitars} alt="Guitars" />
+          <img className='background-img' src={guitars} alt="Guitars" />
         </div>
         <div>
-          <img src={richard_talking} alt="richard talking" />
+          <img className='background-img' src={richard_talking} alt="richard talking" />
         </div>
         <div>
-          <img src={saxes} alt="saxes" />
+          <img className='background-img' src={saxes} alt="saxes" />
         </div>
       </Carousel>
       <div className="overlay"></div>
