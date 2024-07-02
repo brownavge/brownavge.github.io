@@ -1,11 +1,13 @@
 import React from "react";
 import "./App.css";
 import NavBar from "./components/NavBar.js";
+import Footer from "./components/Footer.js";
 import Home from "./pages/Home.js";
 import About from "./pages/About.js";
 import Events from "./pages/Events.js";
 import People from "./pages/People.js";
 import Join from "./pages/Join.js";
+
 import {
     BrowserRouter as Router,
     Routes,
@@ -26,6 +28,7 @@ function App() {
                 <Route path="join" element={<Join />} />
             </Routes>
         </Router>
+        <Footer />
         
         
       </div>
