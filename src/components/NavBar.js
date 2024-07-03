@@ -2,9 +2,8 @@ import '../css/style.css';
 
 const NavBar = () => {
   
-
   return (
-    <div id="navbar" className="navbar">
+    <div id="navbar" className="navigation-bar">
       <a href="/">HOME</a>
       <a href="about">ABOUT</a>
       <a href="events">EVENTS</a>

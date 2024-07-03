@@ -1,4 +1,4 @@
-.navbar {
+.navigation-bar {
   position: fixed;
   top: 0;
   width: 100%;
@@ -10,7 +10,7 @@
   z-index: 1000; /* force navbar above the image */
 }
 
-.navbar a {
+.navigation-bar a {
   float: left;
   display: block;
   color: #f2f2f2;
@@ -20,7 +20,7 @@
   text-decoration: none;
 }
 
-.navbar a:hover {
+.navigation-bar a:hover {
   color: rgb(241, 222, 15);
 }
 
@@ -98,3 +98,17 @@
 .footer-links:hover {
   filter: brightness(0.5);
 }
+
+.poster-container {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.poster-item {
+  width: 50%; 
+  box-sizing: border-box;
+  padding: 10px;
+}
+
