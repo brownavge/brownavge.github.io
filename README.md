@@ -32,10 +32,10 @@ https://brownavge.github.io
 ## 🎯 TODO
 * Figure out color palette
 * Decide on one-page vs. multi-page
-* Design footer
-
 
 ## ✍ Changelog
+* 7/3/2024
+    * Added basic event modals 
 * 7/2/2024
     * Changed background image into carousel 
 * 7/1/2024
