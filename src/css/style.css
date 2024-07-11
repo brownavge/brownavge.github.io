@@ -77,7 +77,7 @@
   background-color: black;
   color: white;
   display: flex;
-  flex-direction: column; /* Stack children vertically */
+  flex-direction: column;
   justify-content: center; 
   align-items: center; 
   padding: 40px 0; 
@@ -109,6 +109,29 @@
 .poster-item {
   width: 50%; 
   box-sizing: border-box;
-  padding: 10px;
+  padding: 15px;
 }
+
+.poster-item:hover {
+  filter: brightness(0.8);
+}
+
+
+/* Additional styling for the modal */
+.wide-modal .modal-dialog {
+  padding-top: 3%;
+  max-width: none;
+  width: 70vw;
+}
+
+.wide-modal .modal-content {
+  max-height: 80vh;
+  border-radius: 30px;
+  overflow: hidden; /* Ensure content does not overflow out of the modal */
+}
+
+.modal-body {
+  padding: 20px; /* Ensure enough padding inside the modal body */
+}
+
 
