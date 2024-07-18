@@ -1,25 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.103a3ddc.css",
-    "main.js": "/static/js/main.22b25ab4.js",
+    "main.js": "/static/js/main.8f5847f7.js",
     "static/js/453.8a2acff8.chunk.js": "/static/js/453.8a2acff8.chunk.js",
+    "static/media/program_s24.pdf": "/static/media/program_s24.55768f436f75dea72a82.pdf",
     "static/media/program_f23.pdf": "/static/media/program_f23.9a798b1befa3781ec34c.pdf",
     "static/media/logo.png": "/static/media/logo.d28bb1635fa1bb30c26b.png",
     "static/media/poster_f23.png": "/static/media/poster_f23.14b52c1149ce2c31789a.png",
     "static/media/poster_s24.png": "/static/media/poster_s24.063e60bb9c46221d308f.png",
+    "static/media/program_s23.pdf": "/static/media/program_s23.57f67252253ff3fd1f19.pdf",
     "static/media/richard_talking.jpg": "/static/media/richard_talking.9331d4b82f2e9fc7cdd8.jpg",
     "static/media/guitars.jpg": "/static/media/guitars.fac682e005f3682b0d2e.jpg",
     "static/media/saxes.jpg": "/static/media/saxes.b6cd13c6141120ac8982.jpg",
     "static/media/poster_s23.jpg": "/static/media/poster_s23.c17dd289f870885fc535.jpg",
     "static/media/poster_f22.jpg": "/static/media/poster_f22.80ba984e3b7f29b23693.jpg",
+    "static/media/program_f22.pdf": "/static/media/program_f22.f2e696d90288cb139f72.pdf",
     "static/media/poster_s22.jpg": "/static/media/poster_s22.feb7af59c510130342fe.jpg",
     "index.html": "/index.html",
     "main.103a3ddc.css.map": "/static/css/main.103a3ddc.css.map",
-    "main.22b25ab4.js.map": "/static/js/main.22b25ab4.js.map",
+    "main.8f5847f7.js.map": "/static/js/main.8f5847f7.js.map",
     "453.8a2acff8.chunk.js.map": "/static/js/453.8a2acff8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.103a3ddc.css",
-    "static/js/main.22b25ab4.js"
+    "static/js/main.8f5847f7.js"
   ]
 }
