@@ -6,6 +6,22 @@ To access AVGE's homepage, navigate to the following URL:
 ```
 https://brownavge.github.io
 ```
+To access and edit the repo, clone the repo using the following command: 
+```
+git clone https://github.com/brownavge/brownavge.github.io.git
+```
+
+Then, navigate to the repo in your terminal and run the command: 
+```
+npm install
+```
+to install the necessary dependencies.
+
+Finally, use the command:
+```
+npm start
+```
+to view the website on your local host.
 
 ## 🧭 Project Structure
     |- node_modules
@@ -30,10 +46,15 @@ https://brownavge.github.io
     |- LICENSE
 
 ## 🎯 TODO
-* Figure out color palette
-* Decide on one-page vs. multi-page
+* Fill in Events page
+* Design the rest of the splash page
+* Figure out image gallery situation
+* FIgure out how to display members
 
 ## ✍ Changelog
+For the full document of notes as this website comes to be, click [here](https://docs.google.com/document/d/1Kc5Zu5V2bslnL4yNlihay_TwFLvmPzWeYuY8C7weEfk/edit?usp=sharing)!
+* 7/11 - 7/17/2024
+    * Styling + filling in information for event modals 
 * 7/3/2024
     * Added basic event modals 
 * 7/2/2024
