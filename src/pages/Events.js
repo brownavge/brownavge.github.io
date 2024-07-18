@@ -5,7 +5,10 @@ import Spring23 from '../images/poster_s23.jpg';
 import Fall23 from '../images/poster_f23.png';
 import Spring24 from '../images/poster_s24.png';
 import Spring22 from '../images/poster_s22.jpg';
+import F22Program from '../images/program_f22.pdf';
+import S23Program from '../images/program_s23.pdf';
 import F23Program from '../images/program_f23.pdf';
+import S24Program from '../images/program_s24.pdf';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../css/style.css';
@@ -29,7 +32,7 @@ const Events = () => {
       largeList: 'Journey of a Lifetime (Frieren) • Dearly Beloved (Kingdom Hearts) • Selections from Tears of the Kingdom (Legend of Zelda: TOTK) • Kingdom of Predators (Hunter X Hunter) • Hopes and Dreams (Undertale) • T-kt (Attack on Titan) • God Shattering Star (Fire Emblem: Three Houses) • My Neighbor Totoro',
       large: ['x1SRUJCB2XE', 'zPKk89_tPIU', 'gx7VG4nKUsM', 'P89ArVNOJa8', 'PnZHHoN85xU', '3wxPOQDEwmk', 'hNwU0cvZmt4', 'UtRBCSPJytI', '7LxQ_E9xR1k'],
       full: ['kcfWnKEZGXk', 'f9DrHikQUvk'],
-      setlist: 'https://drive.google.com/file/d/1FJW-5aob0H9rFSMuf-Our36e84pxX8qB/view?usp=drive_link'
+      setlist: S24Program
     },
     {
       id: 3,
@@ -54,27 +57,27 @@ const Events = () => {
       description: "The birthplace of the iconic quote, 'This is the end of your merry-go-round of life... of college.' This semester also saw the start of AVGE's arranging team.",
       matineeList: '',
       matineeSmalls: [],
-      eveningList: '',
-      eveningSmalls: [],
-      largeList: '',
-      large: [],
-      full: [],
-      setlist: ''
+      eveningList: 'Pure Furies ~ Whereabouts of the Heart (Touhou 15) • Sentimental Crisis (Kaguya-sama: Love is War) • Sparkle (Your Name) • Bready Steady Go (Omori) • Marigold (Deemo) • Heavenly Flight (Dragon Quest VIII) • The Voice in My Heart (Violet Evergarden) • Jazz Ensemble Medley (Pokemon / Earthbound / Street Fighter III / Mario Kart 8) • Hornet (Hollow Knight) • Platinum Disco (Bakemonogatari) • Hikaru Nara (Your Lie in April) • Hyrule at Night Medley (Legend of Zelda: Breath of the Wild) • Guitar, Loneliness, and Blue Planet (Bocchi the Rock!)',
+      eveningSmalls: ['s0BZsRvzBKc', 'tpdrmMDUFA', 'Gb_XRB8iDvI', 'IXVB2Aez7Gs', 'o2k4dYvTarI', 'HeBpYjmHsFw', 'OSZ2zamPH6g', 'zQidJdHiYS8', 'pzmAY7vkx8E', 'oRxRZFyIJjg', 'xDICk4E0GQg', '6azSeywD9Po', 'tzBE4mIWgk4', 'rDu1GUHKVRE', '34CxXz5QU-I', 'NdKRG6i0zh0'],
+      largeList: "Inherit the Stars (Daemon X Machina) • Kemono Jihen Main Theme • Good Egg Galaxy (Super Mario Galaxy) • The Apex of the World (Fire Emblem: Three Houses) • The Legend of Ashitaka (Princess Mononoke) • Hollow Knight Medley • Merry-Go-Round of Life (Howl's Moving Castle)",
+      large: ['js8hz2x6P64', 'AhrAerM4ycA', 'UQbK7V7OhSk', 'NbpAJ7_XEdc', 'hSarLoapA5E', 'dexEbPJhjeQ', 'oU-aVtY-5vs'],
+      full: ['TvJcUlYw0YI'],
+      setlist: S23Program
     },
     {
       id: 1,
       title: 'Fall 2022 Concert',
       image: Fall22,
       date: 'Monday, December 5 in Alumnae Hall',
-      description: "AVGE's first concert as an official ensemble. With a grand total of twenty performers across small and large ensemble, this group helped propel the club towards a bright and hopeful future!",
+      description: "AVGE's first concert as an official ensemble. With a grand total of twenty-one performers across small and large ensemble, this group helped propel the club towards a bright and hopeful future!",
       matineeList: '',
       matineeSmalls: [],
-      eveningList: '',
-      eveningSmalls: [],
-      largeList: '',
-      large: [],
-      full: [],
-      setlist: ''
+      eveningList: "Detective Conan Main Theme • Path of the Wind (My Neighbor Totoro) • Resurrections ~ Awake (Celeste) • My Lie (Your Lie in April) • Kigeki (Spy x Family) • Duet (Omori) • Promise of the World (Howl's Moving Castle) • Snow Halation (Love Live!) • Ashitaka and San (Princess Mononoke) • Professor Layton and the Curious Village Medley",
+      eveningSmalls: ['Awauky3_xbY', 'SOYUFfyLu8E', 'IMT7H5PEyws', 'riKbKaWfjhQ', 'g4skUVBdACo', '7a91eDJCKww', 'eKJGMQ3KMls', 'BBDl7BONHlM', 'SE_IjCmiCQw', 'GxswqonTM3o'],
+      largeList: "Fountain of Dreams (Kirby Air Ride) • Final Fantasy VII Main Theme • Legend of Zelda: Breath of the Wild Main Theme • A Town With an Ocean View (Kiki's Delivery Service) • Gate of Steiner (Steins;Gate) • Crescent Moon (Mobile Suit Gundam)",
+      large: ['I24jHRYiXwg', 'iP3gdnII06c', 'NsPlmG9aTdM', '7j8qn5lLocc', 'TzGkTg6lBHY', 'V1sbA2zTrMU'],
+      full: ['UPlSRDP0Haw'],
+      setlist: F22Program
     },
     {
       id: 0,
@@ -86,7 +89,7 @@ const Events = () => {
       matineeSmalls: [],
       eveningList: '',
       eveningSmalls: [],
-      largeList: '',
+      largeList: 'Deep in Abyss (Made in Abyss)',
       large: [],
       full: [],
       setlist: ''

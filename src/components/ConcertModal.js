@@ -18,7 +18,7 @@ const ConcertModal = ({ show, handleClose, concert }) => {
             <p style={{ fontSize: '13px', marginTop: '0px' }}><center><i>{concert?.description}</i></center></p>
             <hr></hr>
             
-            {concert?.matineeSmalls?.length > 0 && (
+            {concert?.matineeList?.length > 0 && (
               <>
                 <p style={{ fontSize: '20px', marginBottom: '0px' }}><center>Matinee Small Ensembles</center></p>
                 <p style={{ fontSize: '13px', marginTop: '0px', marginBottom: '5px' }}><center>{concert?.matineeList}</center></p>
@@ -40,7 +40,7 @@ const ConcertModal = ({ show, handleClose, concert }) => {
               </>
             )}
 
-            {concert?.eveningSmalls?.length > 0 && (
+            {concert?.eveningList?.length > 0 && (
               <>
               <p style={{ fontSize: '20px', marginTop: '30px', marginBottom: '0px' }}><center>Evening Small Ensembles</center></p>
               <p style={{ fontSize: '13px', marginTop: '0px', marginBottom: '5px' }}><center>{concert?.eveningList}</center></p>
@@ -63,7 +63,7 @@ const ConcertModal = ({ show, handleClose, concert }) => {
               </>
             )}
 
-            {concert?.large?.length > 0 && (
+            {concert?.largeList?.length > 0 && (
               <>
                 <p style={{ fontSize: '20px', marginBottom: '0px' }}><center>Large Ensemble</center></p>
                 <p style={{ fontSize: '13px', marginTop: '0px', marginBottom: '5px' }}><center>{concert?.largeList}</center></p>
