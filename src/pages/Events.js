@@ -89,7 +89,7 @@ const Events = () => {
       matineeSmalls: [],
       eveningList: '',
       eveningSmalls: [],
-      largeList: 'Deep in Abyss (Made in Abyss)',
+      largeList: 'Deep in Abyss (Made in Abyss) • Gusty Garden Galaxy (Super Mario Galaxy)',
       large: [],
       full: [],
       setlist: ''
